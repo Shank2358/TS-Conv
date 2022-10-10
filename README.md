@@ -1,11 +1,11 @@
 ### 更新啦~~
 # TS-Conv: Task-wise Sampling Convolutions for Arbitrary-Oriented Object Detection in Aerial Images  
 
-  <a href="https://github.com/Shank2358/GGHL/">
+  <a href="https://github.com/Shank2358/TS-Conv/">
     <img alt="Version" src="https://img.shields.io/badge/Version-1.3.0-blue" />
   </a>
   
-  <a href="https://github.com/Shank2358/GGHL/blob/main/LICENSE">
+  <a href="https://github.com/Shank2358/TS-Conv/blob/main/LICENSE">
     <img alt="GPLv3.0 License" src="https://img.shields.io/badge/License-GPLv3.0-blue" />
   </a>
   
