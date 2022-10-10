@@ -22,11 +22,7 @@ Code is coming soon.
 ## This is the implementation of TS-Conv 👋👋👋
 [[Arxiv](https://arxiv.org/abs/2209.02200)]  
 #### 👹👹👹 不出意外的话是毕业前最后一个工作了，可能也是学术圈的最后一个工作（即将失业，，，），有点水大家见谅。   
-
-<p algin="center">
-<img src="https://user-images.githubusercontent.com/33946139/194797485-a38a73d1-a7fd-4c90-92f7-131d76afc2ce.png" width="380"><img src="![image](https://user-images.githubusercontent.com/33946139/194797570-28ba7c0d-0714-4070-955d-3e42d695c706.png)" width="430">
-</p>
-![image](https://user-images.githubusercontent.com/33946139/194797601-fb9aac6f-58f7-4477-83e2-d661fbd65859.png)
+![image](https://user-images.githubusercontent.com/33946139/194797485-a38a73d1-a7fd-4c90-92f7-131d76afc2ce.png)
 
 ### Please give a ⭐️ if this project helped you. If you use it, please consider citing:
   ```Arxiv
