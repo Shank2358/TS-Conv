@@ -16,8 +16,7 @@
 
 <a href="mailto:zhanchao.h@outlook.com" target="_blank">
    <img alt="E-mail" src="https://img.shields.io/badge/To-Email-blue" />
-</a> 
-Code is coming soon.
+</a>  
 
 ## This is the implementation of TS-Conv 👋👋👋
 [[Arxiv](https://arxiv.org/abs/2209.02200)]  
