@@ -20,7 +20,8 @@
 Code is coming soon.
 
 ## This is the implementation of TS-Conv 👋👋👋
-[[Arxiv](https://arxiv.org/abs/2209.02200)]
+[[Arxiv](https://arxiv.org/abs/2209.02200)]  
+#### 👹👹👹 不出意外的话是毕业前最后一个工作了，可能也是学术圈的最后一个工作（即将失业，，，），有点水大家见谅。   
 
 ### Please give a ⭐️ if this project helped you. If you use it, please consider citing:
   ```Arxiv
@@ -35,10 +36,6 @@ Code is coming soon.
   doi={10.48550/arXiv.2209.02200}}
   ```
 ### 🤡🤡🤡 Clone不Star,都是耍流氓    
-
-
-### 👹👹👹 不出意外的话是毕业前最后一个工作了，可能也是学术圈的最后一个工作（即将失业，，，），有点水大家见谅。   
-
 
 ## 0. Something Important 🦞 🦀 🦑 
 
