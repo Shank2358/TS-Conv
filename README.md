@@ -23,7 +23,7 @@ Code is coming soon.
 [[Arxiv](https://arxiv.org/abs/2209.02200)]
 
 ### Please give a ⭐️ if this project helped you. If you use it, please consider citing:
-  ```IEEE TIP
+  ```Arxiv
   @ARTICLE{9709203,
   author={Huang, Zhanchao and Li, Wei and Xia, Xiang-Gen，Hao Wang and Tao, Ran},
   journal={arXiv}, 
@@ -34,9 +34,33 @@ Code is coming soon.
   pages={1-16},
   doi={10.48550/arXiv.2209.02200}}
   ```
-### Clone不Star,都是耍流氓 🤡🤡🤡
+### 🤡🤡🤡 Clone不Star,都是耍流氓    
 
-### 不出意外的话是毕业前最后一个工作了，不知道会不会是学术圈的最后一个工作，有点水大家见谅
+
+### 👹👹👹 不出意外的话是毕业前最后一个工作了，不知道会不会是学术圈的最后一个工作，有点水大家见谅   
+
+
+## 0. Something Important 🦞 🦀 🦑 
+
+* #### 🎃🎃🎃 The usage of the TS-Conv repository is the same as that of the ancestral repository [GGHL](https://github.com/Shank2358/GGHL). If you have any questions, please see the issues there.  
+    ##### 用法和祖传的[GGHL](https://github.com/Shank2358/GGHL)仓库一样，有问题可以看那边的issues。TS-Conv还将持续更新一段时间，现在更新完的是主体模型的代码，重点在head，DCN，以及dataload的标签分配那部分，其他和GGHL差不多。可视化和更多其它部分的功能和实验我也在抓紧更新中。   
+
+* #### 💖💖💖 Thanks to [Crescent-Ao](https://github. com/Crescent-Ao) and [haohaoolalahao](https://github.com/haohaoolalahao) for contributions to the GGHL repository, thanks to [Crescent-Ao](https://github.com/Crescent-Ao) for the GGHL deployment Version. Relevant warehouses will continue to be updated, so stay tuned.  
+    ##### 打个广告，GGHL部署版本[GGHL-Deployment](https://github.com/Crescent-Ao/GGHL-Deployment)已经上线，欢迎大家使用~~ 感谢我最亲爱的师弟[Crescent-Ao](https://github.com/Crescent-Ao)和[haohaolalahao](https://github.com/haohaolalahao)对GGHL仓库的贡献，感谢[Crescent-Ao](https://github.com/Crescent-Ao)完成的GGHL部署版本。相关仓库还会持续更新中，敬请期待。
+
+* #### 😺😺😺 Welcome everyone to pay attention to the MGAR completed by [haohaoolalahao](https://github.com/haohaoolalahao) in cooperation with me, which has been accepted by [IEEE TGRS](https://ieeexplore.ieee.org/document/9912396).  
+    ##### 再打个广告，欢迎大家关注[haohaolalahao](https://github.com/haohaolalahao)与我合作完成的遥感图像目标检测工作 MGAR: Multi-Grained Angle Representation for Remote Sensing Object Detection，论文已经正式接收[IEEE TGRS](https://ieeexplore.ieee.org/document/9912396) [Arxiv](https://arxiv.org/abs/2209.02884), 感谢大家引用：
+  ```IEEE TGRS
+    @ARTICLE{9912396,
+      author={Wang, Hao and Huang, Zhanchao and Chen, Zhengchao and Song, Ying and Li, Wei},
+      journal={IEEE Transactions on Geoscience and Remote Sensing}, 
+      title={Multi-Grained Angle Representation for Remote Sensing Object Detection}, 
+      year={2022},
+      volume={},
+      number={},
+      pages={1-1},
+      doi={10.1109/TGRS.2022.3212592}}
+  ```  
 
 ## 🌈 1.Environments
 Linux (Ubuntu 18.04, GCC>=5.4) & Windows (Win10)   
@@ -64,7 +88,6 @@ python setup.py build_ext --inplace
 ```   
   
 ## 🎃 3.Datasets
-###  用法和祖传的[GGHL](https://github.com/Shank2358/GGHL)仓库一样，有问题可以看那边的issues  
 
 1. [DOTA dataset](https://captain-whu.github.io/DOTA/dataset.html) and its [devkit](https://github.com/CAPTAIN-WHU/DOTA_devkit)  
 
