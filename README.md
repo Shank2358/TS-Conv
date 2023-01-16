@@ -1,3 +1,5 @@
+# 审稿可太慢了，这个论文不知道还能不能赶上毕业/(ㄒoㄒ)/~~  求好运🎈
+
 # 更新啦~~
 # TS-Conv: Task-wise Sampling Convolutions for Arbitrary-Oriented Object Detection in Aerial Images  
 
